@@ -1,0 +1,41 @@
+.relatedproducts{
+
+  .heading{
+    text-align: center;
+    // border: 30%;
+  }
+  
+  
+  
+  .relatedproducts h1{
+    color: #171717;
+    font-size: 50px;
+    font-weight: 600;
+    align-items: center;
+    border-bottom: 2px solid grey;
+
+}
+
+.relatedproducts hr{
+  width: 200px;
+  height: 6px;
+  border-radius: 10px;
+  background: #252525;
+  text-align: center;
+}
+
+.relatedproducts-item{
+  margin: 50px 20px;
+  margin-left: 50px;
+  display: flex;
+  // justify-content: space-evenly;
+  // align-items: center;
+  // gap: 10px;
+
+  Item{
+    
+  }
+}
+
+
+}

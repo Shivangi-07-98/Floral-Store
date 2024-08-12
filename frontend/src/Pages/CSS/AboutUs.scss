@@ -1,0 +1,43 @@
+.about{
+    margin: 2rem 8rem;
+
+
+.about1{
+    background-color: rgb(230, 243, 247);
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0;
+    padding: 2rem;
+    margin-bottom: 2rem;
+
+    .left{
+        // width: 50%;
+        margin: auto;
+
+    }
+    .right{
+        // width: 50%;
+        margin: auto;
+    }
+
+
+}
+
+.about3, .about4{
+    h2{
+        font-size: 1.7rem;
+        color: rgb(94, 93, 93);
+        margin-bottom: 1.5rem;
+    }
+    p{
+        font-size: 0.9rem;
+    }
+
+}
+
+.about5{
+    margin-bottom: 2rem;
+}
+
+}

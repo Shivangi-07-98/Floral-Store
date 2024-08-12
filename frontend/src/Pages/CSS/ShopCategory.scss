@@ -1,0 +1,122 @@
+.shop-category1{
+  padding: 2rem 1.5rem;
+  display: flex;
+  // max-width: 100%;
+
+  .sidebar{
+    min-width: 23%;
+    margin-top: 4rem;
+
+    .heading{
+      
+        // margin-left: 6.5rem;
+        
+        font-weight: 200;
+        margin-bottom: 2rem;
+        color: rgb(125, 121, 121);
+        font-family: 'cursive';
+        // border-bottom: 1px solid black;
+
+        h2{
+          font-size: 1.4rem;
+        }
+      
+    }
+
+    .filter{
+
+    input{
+      margin-right: 0.5rem;
+    }
+
+    h4{
+      font-size: 1.2rem;
+      font-weight: 600;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid grey;
+    }
+
+    li{
+      list-style: none;
+      color: grey;
+    }
+  }
+  }
+
+  .right{
+    // max-width: 70%;
+    // margin-bottom: 20px;
+
+    .website-names{
+      margin-left: 4.5rem;
+      font-size: 2.5rem;
+      font-weight: 200;
+      // font-family: 'poppins';
+      border-bottom: 1px solid black;
+    }
+    
+    .shopcategory-banner{
+      display: block;
+      // margin: 20px auto;
+      width: 82%;
+    }
+    
+    .shopcategory-indexSort{
+      display: flex;
+      margin: 20px 0px;
+      margin-left: 80px;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .shopcategory-sort{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      // margin-left: 4rem;
+
+      p{
+        margin: 0;
+      }
+      // padding: 10px 20px;
+      // border-radius: 40px;
+      // border: 1px solid #888;
+
+      
+  .dropdown .dropdown-toggle{
+    background-color: white;
+    // border: none;
+    color: black;
+}
+    }
+    
+    .shopcategory-indexSort p span{
+      font-weight: 600;
+    }
+    
+    .shopcategory-products{
+      margin: 20px 0;
+      margin-left: 5rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      // height: fit-content;
+      // height: 60%;
+      // row-gap: 80px;
+    }
+    
+    .shopcategory-loadmore{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 50px auto;
+      width: 200px;
+      height: 50px;
+      border-radius: 75px;
+      background: #ededed;
+      color: #787878;
+      font-size: 18px;
+      font-weight: 500;
+    }
+  }
+}

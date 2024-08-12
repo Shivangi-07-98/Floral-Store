@@ -1,0 +1,136 @@
+.newsletter{
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 3rem;
+  margin-bottom: 12rem;
+  background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
+  gap: 30px;
+  border-radius: 1rem;
+}
+
+.newsletter h1{
+  color: #454545;
+  font-size: 2rem;
+}
+
+.newsletter p{
+  color: #454545;
+  font-size: 20px;
+}
+
+.newsletter div{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  // width: 730px;
+  // height: 70px;
+  border-radius: 80px;
+  border: 1px solid #e3e3e3 ;
+}
+
+.newsletter input{
+  width: 500px;
+  margin-left: 30px;
+  border: none;
+  outline: none;
+  color: #616161;
+  font-family: Poppins;
+  font-size: 16px;
+  height: 1rem;
+  height: 50px;
+}
+
+.newsletter div button{
+  width: 210px;
+  height: 50px;
+  border-radius: 80px;
+  background: black;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+.home4 {
+  background-color: rgb(247, 247, 247);
+  text-align: center;
+  padding: 5rem;
+
+  h3{
+      font-size: 2rem;
+  }
+
+  h4{
+      font-size: 0.9rem;
+      font-weight: 300;
+      color: grey;
+      padding-bottom: 2rem;
+  }
+
+  .text{
+      display: flex;
+      justify-content: center;
+
+      input{
+          height: 2.5rem;
+          width: 35%;
+          border: none;
+          outline: none;
+          font-size: 1rem;
+          padding: 0.2rem 1.5rem;
+
+      }
+
+      button {
+          color: white;
+          background-color: rgb(14, 70, 119);
+          // width: 30%;
+          // margin-left: auto;
+          // margin-right: auto;
+          // text-align: center;
+          padding: 0 2rem;
+          font-weight: 400;
+          // border-radius: 0.3rem;
+          // margin: 2rem 0;
+          // margin: 0;
+          // text-align: center;
+      }
+  }
+
+}
+
+.home5 {
+  padding: 5rem 0;
+  text-align: center;
+
+  h3{
+      font-size: 2rem;
+  }
+
+  h4{
+      font-size: 0.9rem;
+      color: grey;
+      font-weight: 300;
+      padding-bottom: 1rem;
+  }
+
+  .images{
+      display: flex;
+      width: 80%;
+      // flex-wrap: wrap;
+      // text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      
+      img{
+          width: 10rem;
+          margin: 0.5rem;
+          box-shadow: 0 0 10px 2px rgba(139, 138, 138, 0.5);
+      }
+  }
+}

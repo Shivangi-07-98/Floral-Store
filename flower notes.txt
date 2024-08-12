@@ -1,0 +1,19 @@
+Include the sections (Custom Arrangements,Subscription,Events)
+Remove the new categories (Birthday and Gift, Wedding Day, Popular in Roses, exclusive offers, new collection) that were not requested.
+Ability to apply discount codes or promotional offers.
+Integrate social media links, Google Maps
+
+responsive design
+Confirmation emails for order placements - admin
+Option to save items for later or create wishlists
+
+Secure checkout process with clear instructions.
+
+Option for guest checkout and account creation.
+
+Admin
+1. Manage product image is not showing, make view, edit, delete functional
+2. Manage users, make view, delete functional
+3. Manage Orders
+
+4. in manage orders toggle button to send mail when order is placed (order status)
